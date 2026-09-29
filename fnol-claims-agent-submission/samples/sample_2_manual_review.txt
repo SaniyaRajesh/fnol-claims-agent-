@@ -1,0 +1,30 @@
+====================================================================
+FIRST NOTICE OF LOSS (FNOL) - PROPERTY DAMAGE
+====================================================================
+
+--- POLICY INFORMATION ---
+Policy Number: 
+Policyholder Name: Robert Vance
+Effective Dates: 2025-06-01 to 2026-06-01
+
+--- INCIDENT INFORMATION ---
+Date of Incident: 2026-02-14
+Time of Incident: 11:20 PM
+Incident Location: 456 Elm Street, Dallas, TX
+Incident Description: Water pipe burst in upstairs bathroom causing ceiling collapse in kitchen below.
+
+--- INVOLVED PARTIES ---
+Claimant Name: Robert Vance
+Third Parties Involved: None
+Contact Details: 
+
+--- ASSET DETAILS ---
+Asset Type: Residential Property
+Asset ID: PROP-8821
+Estimated Damage Amount: $14,500.00
+
+--- OTHER CLAIM MANDATORY FIELDS ---
+Claim Type: Property Damage
+Attachments: plumbing_repair_invoice.pdf
+Initial Estimate: $14,500.00
+====================================================================

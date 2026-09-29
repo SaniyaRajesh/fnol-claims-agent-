@@ -1,0 +1,30 @@
+====================================================================
+FIRST NOTICE OF LOSS (FNOL) - LIABILITY INJURY
+====================================================================
+
+--- POLICY INFORMATION ---
+Policy Number: POL-771092
+Policyholder Name: Metro Supermarket Inc
+Effective Dates: 2026-01-15 to 2027-01-15
+
+--- INCIDENT INFORMATION ---
+Date of Incident: 2026-03-18
+Time of Incident: 05:30 PM
+Incident Location: Supermarket Store #4, San Antonio, TX
+Incident Description: Customer slipped on wet floor near produce section causing severe wrist sprain and head injury.
+
+--- INVOLVED PARTIES ---
+Claimant Name: Elena Rostova
+Third Parties Involved: Metro Supermarket Store
+Contact Details: 555-0822 / elena.rostova@example.com
+
+--- ASSET DETAILS ---
+Asset Type: Commercial Store Premises
+Asset ID: STORE-SAN-04
+Estimated Damage Amount: $12,000.00
+
+--- OTHER CLAIM MANDATORY FIELDS ---
+Claim Type: Personal Injury
+Attachments: medical_report_er.pdf, incident_report.pdf
+Initial Estimate: $12,000.00
+====================================================================

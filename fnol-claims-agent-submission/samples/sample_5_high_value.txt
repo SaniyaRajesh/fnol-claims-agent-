@@ -1,0 +1,30 @@
+====================================================================
+FIRST NOTICE OF LOSS (FNOL) - COMMERCIAL LOSS
+====================================================================
+
+--- POLICY INFORMATION ---
+Policy Number: POL-550119
+Policyholder Name: Apex Logistics LLC
+Effective Dates: 2026-01-01 to 2026-12-31
+
+--- INCIDENT INFORMATION ---
+Date of Incident: 2026-03-01
+Time of Incident: 04:00 AM
+Incident Location: Warehouse B, 789 Logistics Way, Fort Worth, TX
+Incident Description: Electrical fire originated in storage rack section B destroying commercial inventory and structural roof trusses.
+
+--- INVOLVED PARTIES ---
+Claimant Name: Apex Logistics LLC
+Third Parties Involved: None
+Contact Details: 555-0900 / claims@apexlogistics.com
+
+--- ASSET DETAILS ---
+Asset Type: Commercial Property & Inventory
+Asset ID: BLDG-FW-02
+Estimated Damage Amount: $185,000.00
+
+--- OTHER CLAIM MANDATORY FIELDS ---
+Claim Type: Commercial Property
+Attachments: fire_dept_report.pdf, inventory_loss_sheet.xlsx
+Initial Estimate: $185,000.00
+====================================================================

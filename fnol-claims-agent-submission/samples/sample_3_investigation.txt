@@ -1,0 +1,30 @@
+====================================================================
+FIRST NOTICE OF LOSS (FNOL) - AUTO INCIDENT
+====================================================================
+
+--- POLICY INFORMATION ---
+Policy Number: POL-332910
+Policyholder Name: David Miller
+Effective Dates: 2026-02-01 to 2027-02-01
+
+--- INCIDENT INFORMATION ---
+Date of Incident: 2026-03-22
+Time of Incident: 02:15 AM
+Incident Location: Industrial Park Lot, Houston, TX
+Incident Description: Claimant states vehicle was parked when struck. However witness statements are inconsistent and physical damage looks staged.
+
+--- INVOLVED PARTIES ---
+Claimant Name: David Miller
+Third Parties Involved: Unknown
+Contact Details: 555-0144 / dmiller@example.com
+
+--- ASSET DETAILS ---
+Asset Type: Automobile (2021 BMW M3)
+Asset ID: VIN WBS8M9C58M5678901
+Estimated Damage Amount: $18,000.00
+
+--- OTHER CLAIM MANDATORY FIELDS ---
+Claim Type: Vehicle Collision
+Attachments: scene_photo_1.png
+Initial Estimate: $18,000.00
+====================================================================

@@ -1,0 +1,30 @@
+====================================================================
+FIRST NOTICE OF LOSS (FNOL) - AUTOMOTIVE CLAIM
+====================================================================
+
+--- POLICY INFORMATION ---
+Policy Number: POL-994821
+Policyholder Name: Sarah Jenkins
+Effective Dates: 2026-01-01 to 2026-12-31
+
+--- INCIDENT INFORMATION ---
+Date of Incident: 2026-03-10
+Time of Incident: 08:45 AM
+Incident Location: Corner of 5th Ave and Main St, Austin, TX
+Incident Description: Vehicle A was stopped at red light when Vehicle B bumped rear bumper at low speed. Minor bumper cover dent.
+
+--- INVOLVED PARTIES ---
+Claimant Name: Sarah Jenkins
+Third Parties Involved: Michael Scott (Driver of Honda Civic)
+Contact Details: 555-0199 / sjenkins@example.com
+
+--- ASSET DETAILS ---
+Asset Type: Automobile (2023 Toyota Camry)
+Asset ID: VIN 4T1B11HK5NW123456
+Estimated Damage Amount: $3,200.00
+
+--- OTHER CLAIM MANDATORY FIELDS ---
+Claim Type: Vehicle Collision
+Attachments: bumper_photo_1.jpg, police_report_austin.pdf
+Initial Estimate: $3,200.00
+====================================================================
